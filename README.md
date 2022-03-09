@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rooftopj, an EE student.
+<!-- - 👋 Hi, I’m @rooftopj, an EE student.
 - 👀 I’m interested in software development...
 - 🌱 I’m currently learning distributed system
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: rooftopj@qq.com.
+- 📫 How to reach me: rooftopj@qq.com. -->
 
 <!---
 rooftopj/rooftopj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

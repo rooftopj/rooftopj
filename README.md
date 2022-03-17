@@ -1,3 +1,6 @@
+- 💞️ If you have an interesting project looking for a developer, you can contact me.
+- 👀 Java/Go/Python.
+- 📫 How to reach me: rooftopj@qq.com.
 <!-- - 👋 Hi, I’m @rooftopj, an EE student.
 - 👀 I’m interested in software development...
 - 🌱 I’m currently learning distributed system
